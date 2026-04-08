@@ -1,0 +1,30 @@
+[
+  {
+    "mcpId": "aihydro-tools",
+    "githubUrl": "https://github.com/AI-Hydro/aihydro-tools",
+    "name": "AI-Hydro Tools",
+    "author": "AI-Hydro",
+    "description": "Core hydrological research tools: watershed delineation, streamflow analysis, climate forcing, terrain analysis, differentiable modelling, and more.",
+    "codiconIcon": "beaker",
+    "category": "hydrology",
+    "tags": ["hydrology", "watershed", "streamflow", "modelling", "CAMELS", "geomorphic", "forcing"],
+    "isRecommended": true,
+    "requiresApiKey": false,
+    "githubStars": 0,
+    "downloadCount": 0
+  },
+  {
+    "mcpId": "pyhmt2d",
+    "githubUrl": "https://github.com/psu-efd/PyHMT2D",
+    "name": "PyHMT2D",
+    "author": "PSU-EFD",
+    "description": "Python-based Hydraulic Modeling Tools for 2D simulations — SRH-2D, HEC-RAS 2D, and more.",
+    "codiconIcon": "pulse",
+    "category": "hydraulics",
+    "tags": ["hydraulics", "2D", "simulation", "SRH-2D", "HEC-RAS"],
+    "isRecommended": false,
+    "requiresApiKey": false,
+    "githubStars": 0,
+    "downloadCount": 0
+  }
+]

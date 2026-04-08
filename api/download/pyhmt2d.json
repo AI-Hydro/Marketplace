@@ -1,0 +1,10 @@
+{
+  "mcpId": "pyhmt2d",
+  "githubUrl": "https://github.com/psu-efd/PyHMT2D",
+  "name": "PyHMT2D",
+  "author": "PSU-EFD",
+  "description": "Python-based Hydraulic Modeling Tools for 2D simulations — SRH-2D, HEC-RAS 2D, and more.",
+  "readmeContent": "# PyHMT2D\n\nPython-based Hydraulic Modeling Tools for 2D simulations.\n\nPyHMT2D provides a unified Python interface for 2D hydraulic models including SRH-2D, HEC-RAS 2D, and others. It supports mesh generation, model setup, simulation execution, and post-processing of results.\n\n## Installation\n\n```bash\npip install PyHMT2D\n```\n\n## Features\n\n- SRH-2D model interface\n- HEC-RAS 2D model interface\n- Mesh generation and manipulation\n- Result post-processing and visualization\n- Batch simulation support\n\n## Links\n\n- [GitHub](https://github.com/psu-efd/PyHMT2D)\n- [Documentation](https://pyhmt2d.readthedocs.io/)\n",
+  "llmsInstallationContent": "## Installation Instructions\n\n1. Run in terminal: `pip install PyHMT2D`\n2. The package provides 2D hydraulic modeling capabilities.\n3. After installation, register as an MCP server in your aihydro_mcp_settings.json.\n4. See the GitHub README for detailed configuration.",
+  "requiresApiKey": false
+}
